@@ -1,0 +1,11 @@
+INPUT:hard	INPUT:image	INPUT:taxon	INPUT:guides	INPUT:photo_id	GOLDEN:result
+False	https://inaturalist-open-data.s3.amazonaws.com/photos/620149746/original.jpg	butterfly	"{""shape"":""rectangle""\,""left"":0.07523385200759777\,""top"":0.1210623434822723\,""width"":0.8295522102943018\,""height"":0.7971530249110319}"	620149746	good
+False	https://inaturalist-open-data.s3.amazonaws.com/photos/620141329/original.jpg	butterfly	"{""shape"":""rectangle""\,""left"":0.19115757216291024\,""top"":0.13160669566363517\,""width"":0.4286989669829973\,""height"":0.7127982074601292}"	620141329	good
+False	https://inaturalist-open-data.s3.amazonaws.com/photos/620012355/original.jpg	butterfly	"{""shape"":""rectangle""\,""left"":0.4337847634110979\,""top"":0.1780018452616317\,""width"":0.1305193093449321\,""height"":0.5377619612495057}"	620012355	good
+False	https://inaturalist-open-data.s3.amazonaws.com/photos/619998429/original.jpg	butterfly	"{""shape"":""rectangle""\,""left"":0.38692829840516674\,""top"":0.3973243706339792\,""width"":0.24798586397785694\,""height"":0.2509555819164361}"	619998429	bad
+False	https://inaturalist-open-data.s3.amazonaws.com/photos/619880803/original.jpg	butterfly	"{""shape"":""rectangle""\,""left"":0.1393943463372054\,""top"":0.22861473573217345\,""width"":0.5395077478606654\,""height"":0.3943587715829708}"	619880803	good
+False	https://inaturalist-open-data.s3.amazonaws.com/photos/619807159/original.jpg	butterfly	"{""shape"":""rectangle""\,""left"":0.15974571230493487\,""top"":0.3424937392908924\,""width"":0.6057889349745581\,""height"":0.3521813628575194}"	619807159	bad
+False	https://inaturalist-open-data.s3.amazonaws.com/photos/624335552/original.jpg	beetle	"{""shape"":""rectangle""\,""left"":0.314924651816704\,""top"":0.38256227758007116\,""width"":0.36272571503888235\,""height"":0.36061684460260973}"	624335552	abscence
+False	https://inaturalist-open-data.s3.amazonaws.com/photos/624331298/original.jpg	beetle	"{}"	624331298	abscence
+False	https://inaturalist-open-data.s3.amazonaws.com/photos/624926681/original.jpg	flower	"{}"	624926681	abscence
+False	https://inaturalist-open-data.s3.amazonaws.com/photos/605072725/original.jpg	shrub	"{}"	605072725	abscence

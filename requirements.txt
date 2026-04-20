@@ -1,0 +1,31 @@
+# Recommended runtime: Python 3.12
+
+# Core data processing and scripts
+numpy
+pandas
+requests
+Pillow
+tqdm
+python-dotenv
+
+# Analysis and notebooks
+matplotlib
+scikit-learn
+PyYAML
+markdown
+jupyterlab
+ipykernel
+ipywidgets
+
+# Data platforms and task tooling
+datasets
+huggingface_hub
+toloka-kit==0.1.12
+urllib3<2
+cattrs
+httpx
+crowd-kit
+
+# Model tuning and evaluation
+torch
+ultralytics

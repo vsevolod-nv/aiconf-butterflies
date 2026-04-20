@@ -1,0 +1,1184 @@
+[
+    {
+        "photo_id": 624428571,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/624428571/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.4581435995703046,
+            "top": 0.4467852684144819,
+            "width": 0.1059884446767122,
+            "height": 0.19975031210986266
+        }
+    },
+    {
+        "photo_id": 528983389,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/528983389/original.jpg",
+        "entity": "flower",
+        "bbox": null
+    },
+    {
+        "photo_id": 624282137,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/624282137/original.jpg",
+        "entity": "beetle",
+        "bbox": null
+    },
+    {
+        "photo_id": 622591605,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/622591605/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.2451193820224719,
+            "top": 0.2736683312526009,
+            "width": 0.547752808988764,
+            "height": 0.30461922596754065
+        }
+    },
+    {
+        "photo_id": 621174272,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/621174272/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.3662089055347482,
+            "top": 0.25702247191011235,
+            "width": 0.32847829102510745,
+            "height": 0.2646691635455681
+        }
+    },
+    {
+        "photo_id": 623085250,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623085250/original.jpg",
+        "entity": "bee",
+        "bbox": null
+    },
+    {
+        "photo_id": 519927293,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/519927293/original.jpg",
+        "entity": "shrub",
+        "bbox": null
+    },
+    {
+        "photo_id": 531547952,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/531547952/original.jpg",
+        "entity": "flower",
+        "bbox": null
+    },
+    {
+        "photo_id": 624402256,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/624402256/original.jpg",
+        "entity": "bee",
+        "bbox": null
+    },
+    {
+        "photo_id": 624034537,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/624034537/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.410878708279093,
+            "top": 0.3899954900793295,
+            "width": 0.11964667327039702,
+            "height": 0.06537836075132414
+        }
+    },
+    {
+        "photo_id": 623318899,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623318899/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.19443340669911294,
+            "top": 0.20375572201414896,
+            "width": 0.7035224028654926,
+            "height": 0.564294631710362
+        }
+    },
+    {
+        "photo_id": 619807159,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/619807159/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.12117876629464522,
+            "top": 0.25036412817311693,
+            "width": 0.7434481067266072,
+            "height": 0.5126924677486475
+        }
+    },
+    {
+        "photo_id": 535525351,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/535525351/original.jpg",
+        "entity": "flower",
+        "bbox": null
+    },
+    {
+        "photo_id": 624335552,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/624335552/original.jpg",
+        "entity": "beetle",
+        "bbox": null
+    },
+    {
+        "photo_id": 620681573,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/620681573/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.651685393258427,
+            "top": 0.46010195588847275,
+            "width": 0.1435705368289638,
+            "height": 0.10819808572617556
+        }
+    },
+    {
+        "photo_id": 519896714,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/519896714/original.jpg",
+        "entity": "shrub",
+        "bbox": null
+    },
+    {
+        "photo_id": 623217910,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623217910/original.jpg",
+        "entity": "bee",
+        "bbox": null
+    },
+    {
+        "photo_id": 624327834,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/624327834/original.jpg",
+        "entity": "beetle",
+        "bbox": null
+    },
+    {
+        "photo_id": 621478468,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/621478468/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.48236001294677955,
+            "top": 0.5483250104036621,
+            "width": 0.11245202755814487,
+            "height": 0.1148564294631711
+        }
+    },
+    {
+        "photo_id": 623614513,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623614513/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.0981664868067458,
+            "top": 0.23538285476487722,
+            "width": 0.5176051122537506,
+            "height": 0.33458177278402
+        }
+    },
+    {
+        "photo_id": 623025190,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623025190/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.577168834315755,
+            "top": 0.48340615896795674,
+            "width": 0.16002500390686047,
+            "height": 0.18310445276737414
+        }
+    },
+    {
+        "photo_id": 622653364,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/622653364/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.29690919823024564,
+            "top": 0.2819912609238452,
+            "width": 0.42591112573718004,
+            "height": 0.30295464003329176
+        }
+    },
+    {
+        "photo_id": 537267203,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/537267203/original.jpg",
+        "entity": "flower",
+        "bbox": null
+    },
+    {
+        "photo_id": 623323916,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623323916/original.jpg",
+        "entity": "bee",
+        "bbox": null
+    },
+    {
+        "photo_id": 620933534,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/620933534/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.4606741573033708,
+            "top": 0.35356845609654597,
+            "width": 0.03745318352059923,
+            "height": 0.20474406991260918
+        }
+    },
+    {
+        "photo_id": 624274153,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/624274153/original.jpg",
+        "entity": "beetle",
+        "bbox": null
+    },
+    {
+        "photo_id": 619880803,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/619880803/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.14059077097024947,
+            "top": 0.22705992509363296,
+            "width": 0.7864932984712505,
+            "height": 0.5409904286308781
+        }
+    },
+    {
+        "photo_id": 624311177,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/624311177/original.jpg",
+        "entity": "beetle",
+        "bbox": null
+    },
+    {
+        "photo_id": 624335236,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/624335236/original.jpg",
+        "entity": "beetle",
+        "bbox": null
+    },
+    {
+        "photo_id": 624331906,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/624331906/original.jpg",
+        "entity": "beetle",
+        "bbox": null
+    },
+    {
+        "photo_id": 623186705,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623186705/original.jpg",
+        "entity": "bee",
+        "bbox": null
+    },
+    {
+        "photo_id": 623763164,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623763164/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.5215702593979747,
+            "top": 0.1954327923429047,
+            "width": 0.14648356221389935,
+            "height": 0.09821057012068249
+        }
+    },
+    {
+        "photo_id": 623121618,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623121618/original.jpg",
+        "entity": "flower",
+        "bbox": null
+    },
+    {
+        "photo_id": 528951131,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/528951131/original.jpg",
+        "entity": "shrub",
+        "bbox": null
+    },
+    {
+        "photo_id": 620147155,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/620147155/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.02419914175381132,
+            "top": 0.0755826050769871,
+            "width": 0.866631764058368,
+            "height": 0.8622555139409073
+        }
+    },
+    {
+        "photo_id": 620547334,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/620547334/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.25323900679705924,
+            "top": 0.2303890969621307,
+            "width": 0.40393952004438893,
+            "height": 0.4860590928006657
+        }
+    },
+    {
+        "photo_id": 521554122,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/521554122/original.jpg",
+        "entity": "flower",
+        "bbox": null
+    },
+    {
+        "photo_id": 619870901,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/619870901/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.48791300995137166,
+            "top": 0.4021849545635399,
+            "width": 0.11772303421240837,
+            "height": 0.10870595997116089
+        }
+    },
+    {
+        "photo_id": 535098782,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/535098782/original.jpg",
+        "entity": "shrub",
+        "bbox": null
+    },
+    {
+        "photo_id": 623337960,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623337960/original.jpg",
+        "entity": "bee",
+        "bbox": null
+    },
+    {
+        "photo_id": 619958722,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/619958722/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.40074906367041196,
+            "top": 0.25369330004161467,
+            "width": 0.3196004993757803,
+            "height": 0.3895131086142322
+        }
+    },
+    {
+        "photo_id": 624281142,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/624281142/original.jpg",
+        "entity": "beetle",
+        "bbox": null
+    },
+    {
+        "photo_id": 621707313,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/621707313/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.40749063670411984,
+            "top": 0.3868601747815231,
+            "width": 0.2809821057012068,
+            "height": 0.23803578859758634
+        }
+    },
+    {
+        "photo_id": 624308877,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/624308877/original.jpg",
+        "entity": "beetle",
+        "bbox": null
+    },
+    {
+        "photo_id": 523757702,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/523757702/original.jpg",
+        "entity": "shrub",
+        "bbox": null
+    },
+    {
+        "photo_id": 621539026,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/621539026/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.29155742821473163,
+            "top": 0.3668851435705368,
+            "width": 0.42631086142322094,
+            "height": 0.3562213899292551
+        }
+    },
+    {
+        "photo_id": 623589940,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623589940/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.37952559300873906,
+            "top": 0.4318039950062422,
+            "width": 0.15980024968789014,
+            "height": 0.14481897627965046
+        }
+    },
+    {
+        "photo_id": 535411214,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/535411214/original.jpg",
+        "entity": "flower",
+        "bbox": null
+    },
+    {
+        "photo_id": 620738436,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/620738436/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.2374809266195034,
+            "top": 0.480076987099459,
+            "width": 0.38396448883340273,
+            "height": 0.09821057012068246
+        }
+    },
+    {
+        "photo_id": 624339783,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/624339783/original.jpg",
+        "entity": "beetle",
+        "bbox": null
+    },
+    {
+        "photo_id": 519880173,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/519880173/original.jpg",
+        "entity": "shrub",
+        "bbox": null
+    },
+    {
+        "photo_id": 622851261,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/622851261/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.3728672492717437,
+            "top": 0.4134935497295048,
+            "width": 0.2641143015674851,
+            "height": 0.13150228880565962
+        }
+    },
+    {
+        "photo_id": 624339168,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/624339168/original.jpg",
+        "entity": "beetle",
+        "bbox": null
+    },
+    {
+        "photo_id": 624795093,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/624795093/original.jpg",
+        "entity": "butterfly",
+        "bbox": null
+    },
+    {
+        "photo_id": 520427975,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/520427975/original.jpg",
+        "entity": "shrub",
+        "bbox": null
+    },
+    {
+        "photo_id": 623106436,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623106436/original.jpg",
+        "entity": "bee",
+        "bbox": null
+    },
+    {
+        "photo_id": 620503955,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/620503955/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.3882646691635456,
+            "top": 0.4717540574282147,
+            "width": 0.24968789013732834,
+            "height": 0.277985851019559
+        }
+    },
+    {
+        "photo_id": 624327270,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/624327270/original.jpg",
+        "entity": "beetle",
+        "bbox": null
+    },
+    {
+        "photo_id": 523359496,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/523359496/original.jpg",
+        "entity": "shrub",
+        "bbox": null
+    },
+    {
+        "photo_id": 523881836,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/523881836/original.jpg",
+        "entity": "flower",
+        "bbox": null
+    },
+    {
+        "photo_id": 623132543,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623132543/original.jpg",
+        "entity": "bee",
+        "bbox": null
+    },
+    {
+        "photo_id": 623619369,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623619369/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.3257217723003227,
+            "top": 0.41016437786100707,
+            "width": 0.24709927553817573,
+            "height": 0.2163961714523513
+        }
+    },
+    {
+        "photo_id": 519890964,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/519890964/original.jpg",
+        "entity": "shrub",
+        "bbox": null
+    },
+    {
+        "photo_id": 624281104,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/624281104/original.jpg",
+        "entity": "beetle",
+        "bbox": null
+    },
+    {
+        "photo_id": 517347728,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/517347728/original.jpg",
+        "entity": "flower",
+        "bbox": null
+    },
+    {
+        "photo_id": 535420693,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/535420693/original.jpg",
+        "entity": "flower",
+        "bbox": null
+    },
+    {
+        "photo_id": 528976466,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/528976466/original.jpg",
+        "entity": "shrub",
+        "bbox": null
+    },
+    {
+        "photo_id": 620221919,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/620221919/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.4924768518518518,
+            "top": 0.46676029962546817,
+            "width": 0.1106689554723263,
+            "height": 0.23470661672908866
+        }
+    },
+    {
+        "photo_id": 620029474,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/620029474/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.33208489388264667,
+            "top": 0.215407823553891,
+            "width": 0.383270911360799,
+            "height": 0.34290470245526417
+        }
+    },
+    {
+        "photo_id": 623357769,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623357769/original.jpg",
+        "entity": "bee",
+        "bbox": null
+    },
+    {
+        "photo_id": 519932030,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/519932030/original.jpg",
+        "entity": "flower",
+        "bbox": null
+    },
+    {
+        "photo_id": 517347759,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/517347759/original.jpg",
+        "entity": "shrub",
+        "bbox": null
+    },
+    {
+        "photo_id": 620149746,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/620149746/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.060946761099295095,
+            "top": 0.11719725343320848,
+            "width": 0.8579428677823848,
+            "height": 0.7906783187682064
+        }
+    },
+    {
+        "photo_id": 623315803,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623315803/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.1768045718429521,
+            "top": 0.17878693300041615,
+            "width": 0.5538456467369584,
+            "height": 0.7091136079900124
+        }
+    },
+    {
+        "photo_id": 623381313,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623381313/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.20746286498933234,
+            "top": 0.29697253433208487,
+            "width": 0.5837090777665962,
+            "height": 0.40449438202247195
+        }
+    },
+    {
+        "photo_id": 624916023,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/624916023/original.jpg",
+        "entity": "flower",
+        "bbox": null
+    },
+    {
+        "photo_id": 623213173,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623213173/original.jpg",
+        "entity": "bee",
+        "bbox": null
+    },
+    {
+        "photo_id": 620687218,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/620687218/original.jpg",
+        "entity": "butterfly",
+        "bbox": null
+    },
+    {
+        "photo_id": 528980066,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/528980066/original.jpg",
+        "entity": "shrub",
+        "bbox": null
+    },
+    {
+        "photo_id": 519735324,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/519735324/original.jpg",
+        "entity": "flower",
+        "bbox": null
+    },
+    {
+        "photo_id": 622864682,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/622864682/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.08368040401169721,
+            "top": 0.0789117769454848,
+            "width": 0.8415406667591436,
+            "height": 0.8522679983354141
+        }
+    },
+    {
+        "photo_id": 621896466,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/621896466/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.48162019697600217,
+            "top": 0.561641697877653,
+            "width": 0.06658343736995426,
+            "height": 0.05826050769870994
+        }
+    },
+    {
+        "photo_id": 623191185,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623191185/original.jpg",
+        "entity": "bee",
+        "bbox": null
+    },
+    {
+        "photo_id": 623058454,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623058454/original.jpg",
+        "entity": "bee",
+        "bbox": null
+    },
+    {
+        "photo_id": 620412889,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/620412889/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.38142256684487374,
+            "top": 0.30696004993757803,
+            "width": 0.3828564862691026,
+            "height": 0.4827299209321682
+        }
+    },
+    {
+        "photo_id": 623358494,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623358494/original.jpg",
+        "entity": "bee",
+        "bbox": null
+    },
+    {
+        "photo_id": 624335234,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/624335234/original.jpg",
+        "entity": "beetle",
+        "bbox": null
+    },
+    {
+        "photo_id": 623013473,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623013473/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.495874432646872,
+            "top": 0.33546183756995623,
+            "width": 0.1577057102916472,
+            "height": 0.11622819689124292
+        }
+    },
+    {
+        "photo_id": 529261563,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/529261563/original.jpg",
+        "entity": "flower",
+        "bbox": null
+    },
+    {
+        "photo_id": 623277629,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623277629/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.240515681928202,
+            "top": 0.3602267998335414,
+            "width": 0.4890485532540107,
+            "height": 0.33624635871826875
+        }
+    },
+    {
+        "photo_id": 623144922,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623144922/original.jpg",
+        "entity": "bee",
+        "bbox": null
+    },
+    {
+        "photo_id": 624331298,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/624331298/original.jpg",
+        "entity": "beetle",
+        "bbox": null
+    },
+    {
+        "photo_id": 621861798,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/621861798/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.2573279934423495,
+            "top": 0.4068352059925094,
+            "width": 0.5437091474346418,
+            "height": 0.4161464835622138
+        }
+    },
+    {
+        "photo_id": 621157372,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/621157372/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.26189485365515325,
+            "top": 0.4534436121514773,
+            "width": 0.3884033846580663,
+            "height": 0.17145235122763214
+        }
+    },
+    {
+        "photo_id": 620000453,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/620000453/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.1672274890761548,
+            "top": 0.3968476903870162,
+            "width": 0.4149134870474407,
+            "height": 0.5110278818143987
+        }
+    },
+    {
+        "photo_id": 620141299,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/620141299/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.30620903558052437,
+            "top": 0.31694756554307113,
+            "width": 0.3184130188826467,
+            "height": 0.46441947565543074
+        }
+    },
+    {
+        "photo_id": 623338262,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623338262/original.jpg",
+        "entity": "bee",
+        "bbox": null
+    },
+    {
+        "photo_id": 620665164,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/620665164/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.4113376797521616,
+            "top": 0.4617665418227216,
+            "width": 0.21306699958385356,
+            "height": 0.12151477320016646
+        }
+    },
+    {
+        "photo_id": 621202625,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/621202625/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.416226286452274,
+            "top": 0.4142410721166443,
+            "width": 0.0921171636765471,
+            "height": 0.06646784112452025
+        }
+    },
+    {
+        "photo_id": 539307364,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/539307364/original.jpg",
+        "entity": "flower",
+        "bbox": null
+    },
+    {
+        "photo_id": 620012355,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/620012355/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.389363555971702,
+            "top": 0.1737931751976696,
+            "width": 0.18028896171452347,
+            "height": 0.5393258426966292
+        }
+    },
+    {
+        "photo_id": 521669443,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/521669443/original.jpg",
+        "entity": "shrub",
+        "bbox": null
+    },
+    {
+        "photo_id": 623396315,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623396315/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.28963795255930086,
+            "top": 0.24204119850187267,
+            "width": 0.5576362879733665,
+            "height": 0.5909280066583437
+        }
+    },
+    {
+        "photo_id": 519889914,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/519889914/original.jpg",
+        "entity": "shrub",
+        "bbox": null
+    },
+    {
+        "photo_id": 621461597,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/621461597/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.18718175314564658,
+            "top": 0.28698501872659177,
+            "width": 0.51301665676955,
+            "height": 0.25634623387432376
+        }
+    },
+    {
+        "photo_id": 539771693,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/539771693/original.jpg",
+        "entity": "flower",
+        "bbox": null
+    },
+    {
+        "photo_id": 517347998,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/517347998/original.jpg",
+        "entity": "shrub",
+        "bbox": null
+    },
+    {
+        "photo_id": 620182211,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/620182211/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.3208489388264669,
+            "top": 0.07391801914273824,
+            "width": 0.2222222222222222,
+            "height": 0.6109030378693301
+        }
+    },
+    {
+        "photo_id": 517347671,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/517347671/original.jpg",
+        "entity": "shrub",
+        "bbox": null
+    },
+    {
+        "photo_id": 621998858,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/621998858/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.3995006242197253,
+            "top": 0.30696004993757803,
+            "width": 0.215980024968789,
+            "height": 0.29629629629629634
+        }
+    },
+    {
+        "photo_id": 621894284,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/621894284/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.3026767214678196,
+            "top": 0.3152829796088223,
+            "width": 0.20628286112774968,
+            "height": 0.17478152309612982
+        }
+    },
+    {
+        "photo_id": 619841891,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/619841891/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.22378277153558052,
+            "top": 0.2836558468580941,
+            "width": 0.5337078651685394,
+            "height": 0.4078235538909696
+        }
+    },
+    {
+        "photo_id": 521008583,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/521008583/original.jpg",
+        "entity": "bee",
+        "bbox": null
+    },
+    {
+        "photo_id": 624275666,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/624275666/original.jpg",
+        "entity": "beetle",
+        "bbox": null
+    },
+    {
+        "photo_id": 620517033,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/620517033/original.jpg",
+        "entity": "butterfly",
+        "bbox": null
+    },
+    {
+        "photo_id": 538336942,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/538336942/original.jpg",
+        "entity": "flower",
+        "bbox": null
+    },
+    {
+        "photo_id": 535407083,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/535407083/original.jpg",
+        "entity": "flower",
+        "bbox": null
+    },
+    {
+        "photo_id": 621691291,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/621691291/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.3691841890550199,
+            "top": 0.5216916354556804,
+            "width": 0.13380911655705957,
+            "height": 0.12317935913441536
+        }
+    },
+    {
+        "photo_id": 623075275,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623075275/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.34956304619225964,
+            "top": 0.5749583853516438,
+            "width": 0.3208489388264669,
+            "height": 0.2213899292550977
+        }
+    },
+    {
+        "photo_id": 624279025,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/624279025/original.jpg",
+        "entity": "beetle",
+        "bbox": null
+    },
+    {
+        "photo_id": 624587822,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/624587822/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.5089933878947612,
+            "top": 0.4318039950062422,
+            "width": 0.27521154112914403,
+            "height": 0.12650853100291304
+        }
+    },
+    {
+        "photo_id": 620853232,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/620853232/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.14608070985807914,
+            "top": 0.09056387848522679,
+            "width": 0.5457038011939737,
+            "height": 0.632542655014565
+        }
+    },
+    {
+        "photo_id": 623286060,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623286060/original.jpg",
+        "entity": "bee",
+        "bbox": null
+    },
+    {
+        "photo_id": 619998429,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/619998429/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.17075335518102372,
+            "top": 0.3252704952143155,
+            "width": 0.7038370006242197,
+            "height": 0.4327923429047025
+        }
+    },
+    {
+        "photo_id": 624330952,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/624330952/original.jpg",
+        "entity": "beetle",
+        "bbox": null
+    },
+    {
+        "photo_id": 623338102,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623338102/original.jpg",
+        "entity": "bee",
+        "bbox": null
+    },
+    {
+        "photo_id": 624321368,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/624321368/original.jpg",
+        "entity": "beetle",
+        "bbox": null
+    },
+    {
+        "photo_id": 623218196,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623218196/original.jpg",
+        "entity": "bee",
+        "bbox": null
+    },
+    {
+        "photo_id": 624926681,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/624926681/original.jpg",
+        "entity": "flower",
+        "bbox": null
+    },
+    {
+        "photo_id": 622971683,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/622971683/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.4659702715355805,
+            "top": 0.5017166042446941,
+            "width": 0.10317913155430719,
+            "height": 0.16312942155638788
+        }
+    },
+    {
+        "photo_id": 519734691,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/519734691/original.jpg",
+        "entity": "shrub",
+        "bbox": null
+    },
+    {
+        "photo_id": 523881456,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/523881456/original.jpg",
+        "entity": "flower",
+        "bbox": null
+    },
+    {
+        "photo_id": 622286708,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/622286708/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.3863162821661409,
+            "top": 0.4584373699542239,
+            "width": 0.2819664818109189,
+            "height": 0.14981273408239693
+        }
+    },
+    {
+        "photo_id": 620141329,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/620141329/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.13646272237827717,
+            "top": 0.12718476903870163,
+            "width": 0.5325374531835206,
+            "height": 0.7174365376612568
+        }
+    },
+    {
+        "photo_id": 624330078,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/624330078/original.jpg",
+        "entity": "beetle",
+        "bbox": null
+    },
+    {
+        "photo_id": 528650662,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/528650662/original.jpg",
+        "entity": "shrub",
+        "bbox": null
+    },
+    {
+        "photo_id": 624510821,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/624510821/original.jpg",
+        "entity": "butterfly",
+        "bbox": {
+            "shape": "rectangle",
+            "left": 0.31390069529193376,
+            "top": 0.20375572201414896,
+            "width": 0.29040010847863396,
+            "height": 0.4494382022471911
+        }
+    },
+    {
+        "photo_id": 623005518,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/623005518/original.jpg",
+        "entity": "bee",
+        "bbox": null
+    },
+    {
+        "photo_id": 539789702,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/539789702/original.jpg",
+        "entity": "shrub",
+        "bbox": null
+    },
+    {
+        "photo_id": 605072725,
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/605072725/original.jpg",
+        "entity": "shrub",
+        "bbox": null
+    }
+]

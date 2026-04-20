@@ -1,0 +1,94 @@
+{
+  "view": {
+    "type": "view.list",
+    "items": [
+      {
+        "type": "view.markdown",
+        "content": "## Выделите бабочек на фотографии.\nЕсли вы видите на картинке бабочек, то выделите каждую из них отдельным прямоугольником.\nЕсли бабочек нет, отметьте чекбокс ниже."
+      },
+      {
+        "type": "field.image-annotation",
+        "data": {
+          "type": "data.output",
+          "path": "result"
+        },
+        "image": {
+          "type": "data.input",
+          "path": "image"
+        },
+        "shapes": {
+          "rectangle": true
+        }
+      },
+      {
+        "type": "field.checkbox",
+        "label": "Бабочек нет",
+        "data": {
+          "type": "data.output",
+          "path": "no_object"
+        }
+      }
+    ],
+    "validation": {
+      "type": "condition.all",
+      "hint": "Необходимо отметить всех бабочек на изображении или указать, что их нет.",
+      "conditions": [
+        {
+          "type": "condition.any",
+          "conditions": [
+            {
+              "type": "condition.required",
+              "data": {
+                "type": "data.output",
+                "path": "result"
+              }
+            },
+            {
+              "type": "condition.required",
+              "data": {
+                "type": "data.output",
+                "path": "no_object"
+              }
+            }
+          ]
+        },
+        {
+          "type": "condition.not",
+          "condition": {
+            "type": "condition.all",
+            "conditions": [
+              {
+                "type": "condition.required",
+                "data": {
+                  "type": "data.output",
+                  "path": "result"
+                }
+              },
+              {
+                "type": "condition.required",
+                "data": {
+                  "type": "data.output",
+                  "path": "no_object"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "plugins": [
+    {
+      "type": "plugin.field.image-annotation.hotkeys",
+      "cancel": "esc",
+      "confirm": "enter",
+      "labels": [
+        "1"
+      ],
+      "modes": {
+        "rectangle": "r",
+        "select": "s"
+      }
+    }
+  ]
+}

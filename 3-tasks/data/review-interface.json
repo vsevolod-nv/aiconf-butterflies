@@ -1,0 +1,89 @@
+{
+  "view": {
+    "items": [
+      {
+        "content": "## Верно ли выделена бабочка?",
+        "type": "view.markdown"
+      },
+      {
+        "type": "field.image-annotation",
+        "image": {
+          "type": "data.input",
+          "path": "image"
+        },
+        "data": {
+          "type": "data.output",
+          "path": "path",
+          "default": {
+            "type": "data.input",
+            "path": "guides"
+          }
+        },
+        "disabled": true
+      },
+      {
+        "type": "field.radio-group",
+        "data": {
+          "type": "data.output",
+          "path": "result"
+        },
+        "options": [
+          {
+            "label": "Бабочка выделена верно ✅",
+            "value": "good"
+          },
+          {
+            "label": "Бабочка выделена плохо ❌",
+            "value": "bad"
+          },
+          {
+            "label": "Бабочки на фотографии нет 🚫",
+            "value": "abscence"
+          },
+          {
+            "label": "Ошибка загрузки фотографии ⚠️",
+            "value": "error"
+          }
+        ]
+      }
+    ],
+    "type": "view.list"
+  },
+  "plugins": [
+    {
+      "1": {
+        "type": "action.set",
+        "data": {
+          "type": "data.output",
+          "path": "result"
+        },
+        "payload": "good"
+      },
+      "2": {
+        "type": "action.set",
+        "data": {
+          "type": "data.output",
+          "path": "result"
+        },
+        "payload": "bad"
+      },
+      "3": {
+        "type": "action.set",
+        "data": {
+          "type": "data.output",
+          "path": "result"
+        },
+        "payload": "abscence"
+      },
+      "type": "plugin.hotkeys",
+      "e": {
+        "type": "action.set",
+        "data": {
+          "type": "data.output",
+          "path": "result"
+        },
+        "payload": "error"
+      }
+    }
+  ]
+}
